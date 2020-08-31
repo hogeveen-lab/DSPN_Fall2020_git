@@ -2,7 +2,7 @@
 <html>
 <head><meta charset="utf-8" />
 
-<title>dspn_fall2020_lecture1_introduction</title>
+<title>dspn_fall2020_lecture4_oscillator</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13077,236 +13077,15 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Data-Science-in-Psychology-&amp;-Neuroscience-(DSPN):">Data Science in Psychology &amp; Neuroscience (DSPN):<a class="anchor-link" href="#Data-Science-in-Psychology-&amp;-Neuroscience-(DSPN):">&#182;</a></h1><h2 id="Lecture-1.-Introduction">Lecture 1. Introduction<a class="anchor-link" href="#Lecture-1.-Introduction">&#182;</a></h2><h3 id="Date:-August-18,-2020">Date: August 18, 2020<a class="anchor-link" href="#Date:-August-18,-2020">&#182;</a></h3>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Syllabus">Syllabus<a class="anchor-link" href="#Syllabus">&#182;</a></h1><h2 id="General-information">General information<a class="anchor-link" href="#General-information">&#182;</a></h2><p><strong>Credits:</strong> 3 <br>
-<strong>Semester Offering:</strong> Fall, 2020 <br>
-<strong>Class location and time:</strong> Online remote, TR 9:30 AM – 10:30 AM <br>
-<strong>Zoom link:</strong> <a href="https://unm.zoom.us/j/92108069579">https://unm.zoom.us/j/92108069579</a> <br>
-<strong>Meeting ID:</strong> 921 0806 9579</p>
-<h2 id="Instructor-information">Instructor information<a class="anchor-link" href="#Instructor-information">&#182;</a></h2><p><strong>Instructor:</strong> Dr. Jeremy Hogeveen <br>
-<strong>Email:</strong> jhogeveen@unm.edu <br>
-<strong>Office location &amp; hours:</strong> Online remote, TR 10:30 AM – 11:00 AM</p>
-<h2 id="Course-content">Course content<a class="anchor-link" href="#Course-content">&#182;</a></h2><p><strong>All of the course materials will be uploaded to this GIT repository:</strong></p>
-<ul>
-<li><a href="https://github.com/hogeveen-lab/DSPN_Fall2020_git">DSPN Fall 2020 Github</a></li>
+<h1 id="Data-Science-in-Psychology-&amp;-Neuroscience-(DSPN):">Data Science in Psychology &amp; Neuroscience (DSPN):<a class="anchor-link" href="#Data-Science-in-Psychology-&amp;-Neuroscience-(DSPN):">&#182;</a></h1><h2 id="Lecture-4.-Oscillator">Lecture 4. Oscillator<a class="anchor-link" href="#Lecture-4.-Oscillator">&#182;</a></h2><h3 id="Date:-August-27,-2020">Date: August 27, 2020<a class="anchor-link" href="#Date:-August-27,-2020">&#182;</a></h3><h3 id="To-Dos-From-Last-Class:">To-Dos From Last Class:<a class="anchor-link" href="#To-Dos-From-Last-Class:">&#182;</a></h3><ul>
+<li>Downloaded oscillator starter kit from <a href="https://github.com/hogeveen-lab/DSPN_Fall2020_git">github</a></li>
 </ul>
-<p><strong>There is no official textbook. But, here is a list of things I used for inspiration in organizing the course:</strong></p>
-<ul>
-<li><a href="https://uk.sagepub.com/en-gb/eur/computational-neuroscience-and-cognitive-modelling/book238062">Computational Neuroscience & Cognitive Modeling</a></li>
-<li><a href="https://cogs18.github.io">UCSD COG Intro to Python</a></li>
-<li><a href="https://datascienceinpractice.github.io/docs/index.html">Data Science in Practice</a></li>
-<li><a href="https://r4ds.had.co.nz">Data Science in R</a></li>
-<li><a href="http://math.ecnu.edu.cn/~lfzhou/seminar/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf">Data Science from Scratch</a></li>
-<li><a href="https://github.com/jlord/git-it-electron#what-to-install">Git-It Github training</a></li>
-<li><a href="https://learning.oreilly.com/library/view/the-art-of/9781449318482/pr03.html">The Art of Readable Code</a></li>
+<h3 id="Today:">Today:<a class="anchor-link" href="#Today:">&#182;</a></h3><ul>
+<li>Complete spreadsheet version of the oscillator</li>
+<li>Set up conversion to Python</li>
 </ul>
-<h2 id="Why-are-we-here?">Why are we here?<a class="anchor-link" href="#Why-are-we-here?">&#182;</a></h2><ol>
-<li>To provide some of the scaffolding needed to develop data superpowers.</li>
-<li>To enable a soft landing for new programmers.</li>
-<li>To provide a chance to hone / advance existing skillsets.</li>
-</ol>
-<h2 id="Tentative-outline-&lt;---updated-8/31/2020">Tentative outline &lt;-- updated 8/31/2020<a class="anchor-link" href="#Tentative-outline-&lt;---updated-8/31/2020">&#182;</a></h2><table>
-<thead><tr>
-<th style="text-align:center">ClassNum</th>
-<th style="text-align:center">Session</th>
-<th style="text-align:center">Date</th>
-<th style="text-align:center">Topic</th>
-<th style="text-align:center">Assignments</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">1</td>
-<td style="text-align:center">wk1_ses1</td>
-<td style="text-align:center">8/18</td>
-<td style="text-align:center">Introduction pt. i</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">2</td>
-<td style="text-align:center">wk1_ses2</td>
-<td style="text-align:center">8/20</td>
-<td style="text-align:center">Introduction pt. ii</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">3</td>
-<td style="text-align:center">wk2_ses1</td>
-<td style="text-align:center">8/25</td>
-<td style="text-align:center">Iteration</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">4</td>
-<td style="text-align:center">wk2_ses2</td>
-<td style="text-align:center">8/27</td>
-<td style="text-align:center">Harmonic oscillator</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">5</td>
-<td style="text-align:center">wk3_ses1</td>
-<td style="text-align:center">9/1</td>
-<td style="text-align:center">Conditionals</td>
-<td style="text-align:center">Assignment #1 due</td>
-</tr>
-<tr>
-<td style="text-align:center">6</td>
-<td style="text-align:center">wk3_ses2</td>
-<td style="text-align:center">9/3</td>
-<td style="text-align:center">Integrate-and-Fire Neuron</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">7</td>
-<td style="text-align:center">wk4_ses1</td>
-<td style="text-align:center">9/8</td>
-<td style="text-align:center">Assignment #1 debrief</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">8</td>
-<td style="text-align:center">wk4_ses2</td>
-<td style="text-align:center">9/10</td>
-<td style="text-align:center">Functions</td>
-<td style="text-align:center">Assignment #2 due</td>
-</tr>
-<tr>
-<td style="text-align:center">9</td>
-<td style="text-align:center">wk5_ses1</td>
-<td style="text-align:center">9/15</td>
-<td style="text-align:center">Assignment #2 debrief</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">10</td>
-<td style="text-align:center">wk5_ses2</td>
-<td style="text-align:center">9/17</td>
-<td style="text-align:center">Wrangling pt. i</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">11</td>
-<td style="text-align:center">wk6_ses1</td>
-<td style="text-align:center">9/22</td>
-<td style="text-align:center">Wrangling pt. ii</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">12</td>
-<td style="text-align:center">wk6_ses2</td>
-<td style="text-align:center">9/24</td>
-<td style="text-align:center">Wrangling assignment</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">13</td>
-<td style="text-align:center">wk7_ses1</td>
-<td style="text-align:center">9/29</td>
-<td style="text-align:center">Visualization pt. i</td>
-<td style="text-align:center">Assignment #3 due</td>
-</tr>
-<tr>
-<td style="text-align:center">14</td>
-<td style="text-align:center">wk7_ses2</td>
-<td style="text-align:center">10/1</td>
-<td style="text-align:center">Visualization pt. ii</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">15</td>
-<td style="text-align:center">wk8_ses1</td>
-<td style="text-align:center">10/6</td>
-<td style="text-align:center">Assignment #3 debrief</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">16</td>
-<td style="text-align:center">wk8_ses2</td>
-<td style="text-align:center">10/8</td>
-<td style="text-align:center">Visualization assignment</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">17</td>
-<td style="text-align:center">wk9_ses1</td>
-<td style="text-align:center">10/13</td>
-<td style="text-align:center">Modeling pt. i</td>
-<td style="text-align:center">Assignment #4 due</td>
-</tr>
-<tr>
-<td style="text-align:center">18</td>
-<td style="text-align:center">wk9_ses2</td>
-<td style="text-align:center">10/15</td>
-<td style="text-align:center">Modeling pt. ii</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">19</td>
-<td style="text-align:center">wk10_ses1</td>
-<td style="text-align:center">10/20</td>
-<td style="text-align:center">Assignment #4 debrief</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">20</td>
-<td style="text-align:center">wk10_ses2</td>
-<td style="text-align:center">10/22</td>
-<td style="text-align:center">Modeling assignment</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">21</td>
-<td style="text-align:center">wk11_ses1</td>
-<td style="text-align:center">10/27</td>
-<td style="text-align:center">Final assignment example: Modeling MEP variance</td>
-<td style="text-align:center">Assignment #5 due</td>
-</tr>
-<tr>
-<td style="text-align:center">22</td>
-<td style="text-align:center">wk11_ses2</td>
-<td style="text-align:center">10/29</td>
-<td style="text-align:center">""</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">23</td>
-<td style="text-align:center">wk12_ses1</td>
-<td style="text-align:center">11/3</td>
-<td style="text-align:center">Assignment #5 debrief</td>
-<td style="text-align:center"></td>
-</tr>
-<tr>
-<td style="text-align:center">23-34</td>
-<td style="text-align:center">wks12-17</td>
-<td style="text-align:center">11/5-12/10</td>
-<td style="text-align:center">Final assignment</td>
-<td style="text-align:center">Final assignment (before 12/10)</td>
-</tr>
-</tbody>
-</table>
-<h2 id="Submitting-assignments">Submitting assignments<a class="anchor-link" href="#Submitting-assignments">&#182;</a></h2><ul>
-<li>Assignment #1: <a href="https://www.dropbox.com/request/VNNoOUDkK7Vpw4N6l1wv">Oscillator</a> (before 9/1, 23:00 MDT)</li>
-<li>Assignment #2: <a href="https://www.dropbox.com/request/5VcxN4lRaTL4CMk5JGSR">Integrate & Fire</a> (before 9/10, 23:00 MDT)</li>
-<li>Assignment #3: <a href="https://www.dropbox.com/request/fohpUaInmJjV5fxd6Hhe">Data Wrangling</a> (before 9/29, 23:00 MDT)</li>
-<li>Assignment #4: <a href="https://www.dropbox.com/request/QRN3YlXMeh3okGCA8SMG">Data Visualization</a> (before 10/13, 23:00 MDT)</li>
-<li>Assignment #5: <a href="https://www.dropbox.com/request/qCgk8EQVKDlbiYaQdw4g">Data Modeling</a> (before 10/27, 23:00 MDT)</li>
-<li>Final assignment: <a href="https://www.dropbox.com/request/wh5ZOuh0Ga0fhCZstO96">Final Project</a> (before 12/10, 23:00 MDT)</li>
-</ul>
-<h2 id="Grades">Grades<a class="anchor-link" href="#Grades">&#182;</a></h2><ul>
-<li>Assignments 1-5: 10% each (50% of grade)</li>
-<li>Final Assignment: 30%</li>
-<li>Participation: 20%</li>
-</ul>
-<h3 id="Notes-on-grades:">Notes on grades:<a class="anchor-link" href="#Notes-on-grades:">&#182;</a></h3><ul>
-<li>Assignments will be 80% "did you try," and 20% driven by the quality of the submission.</li>
-<li>Participation will be 80% "did you come to class," and 20% asking and answering questions.</li>
+<h3 id="Homework">Homework<a class="anchor-link" href="#Homework">&#182;</a></h3><ul>
+<li>Submit Assignment #1: <a href="https://www.dropbox.com/request/VNNoOUDkK7Vpw4N6l1wv">Oscillator</a> (before 9/1, 23:00 MST)</li>
 </ul>
 
 </div>
@@ -13315,68 +13094,64 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Section-1:-Data-Science-Preamble">Section 1: Data Science Preamble<a class="anchor-link" href="#Section-1:-Data-Science-Preamble">&#182;</a></h1><h2 id="What-is-Data-Science?">What is Data Science?<a class="anchor-link" href="#What-is-Data-Science?">&#182;</a></h2><p><img src="img/what_is_ds.png" width="600"></p>
-<h2 id="Why-take-the-time-to-learn-DS-skills?">Why take the time to learn DS skills?<a class="anchor-link" href="#Why-take-the-time-to-learn-DS-skills?">&#182;</a></h2><p>Practical: Help your research computing</p>
-<ul>
-<li>Accelerate knowledge discovery</li>
-<li>Improve data intuitions</li>
-<li>Minimize human error</li>
-</ul>
-<p>Pragmatic: Average salary (e.g. in ABQ)</p>
-<ul>
-<li>Postdoc=\$47k</li>
-<li>Data Scientist=\$92k</li>
-</ul>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Section-2:-How-Will-Things-Work?">Section 2: How Will Things Work?<a class="anchor-link" href="#Section-2:-How-Will-Things-Work?">&#182;</a></h1><h2 id="What-will-you-do-in-class?">What will you do in class?<a class="anchor-link" href="#What-will-you-do-in-class?">&#182;</a></h2><p><strong>Write stuff on a computer, while also having Zoom open</strong></p>
-<ol>
-<li>Zoom + code open on same monitor (ctrl/cmd+tab)</li>
-<li>External monitor or two computers</li>
-<li>Phone zoom and code on computer</li>
-</ol>
-<h2 id="Software-&amp;-Languages">Software &amp; Languages<a class="anchor-link" href="#Software-&amp;-Languages">&#182;</a></h2><p><strong>Will provide exposure to four things:</strong></p>
-<ul>
-<li>JupyterLab</li>
-<li>Python</li>
-<li>R</li>
-<li><em>Maybe</em> Shell (if we have time)</li>
-</ul>
-<p><strong>Python, in particular, can be a mess to install and make sure you have all the packages you need.</strong></p>
-<p><img src="img/python_superfund.png" width="350"></p>
-<h2 id="Anaconda">Anaconda<a class="anchor-link" href="#Anaconda">&#182;</a></h2><p><strong>So, we will use the prepackaged distribution that comes with <a href="https://www.anaconda.com">Anaconda</a></strong></p>
-<p><img src="img/anaconda.png" width="350"></p>
-<ul>
-<li>Once installed, should have the core computing library we need for Jupyter, Python, and R.</li>
-</ul>
-<h2 id="JupyterLab">JupyterLab<a class="anchor-link" href="#JupyterLab">&#182;</a></h2><p><strong><a href="https://jupyter.org">The Jupyter project</a> enables us to blend markdown chunks (i.e., what you're reading now 😀), chunks of code, and code outputs.</strong></p>
-<p><img src="img/jupyter.png" width="350"></p>
-<ul>
-<li>Jupyter Notebooks are the individual files we work on to merge text, code, etc.<ul>
-<li>For more info: <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html">What is Jupyter?</a></li>
+<h1 id="Background">Background<a class="anchor-link" href="#Background">&#182;</a></h1><h2 id="What-is-oscillation?">What is oscillation?<a class="anchor-link" href="#What-is-oscillation?">&#182;</a></h2><ul>
+<li>Repetitive variation of some measure across time around a central value<ul>
+<li>Examples in neuroscience?</li>
 </ul>
 </li>
-<li>JupyterLab is more of an Integrated Development Environment (IDE), I use it. You can do everything you need in notebook though.</li>
+<li>e.g. Motion of a mass on a spring</li>
 </ul>
-<h2 id="Python">Python<a class="anchor-link" href="#Python">&#182;</a></h2><p><strong><a href="https://www.python.org">Python</a> is a general purpose, open source language, with a strong developer community building &amp; sharing new tools everyday.</strong></p>
-<p><img src="img/python3.jpg" width="350"></p>
+<p><img src="img/oscillator_spring.gif"></p>
+<h2 id="Why?">Why?<a class="anchor-link" href="#Why?">&#182;</a></h2><ol>
+<li>It is good to start with simple situations.</li>
+<li>It is good to start with scenarios where you can trust your intuitions.</li>
+<li>It is good if you can start with examples where you can "look up" the right answer, before implementing models for which you do not have the right answer.</li>
+</ol>
+<h2 id="Analytic-formalization">Analytic formalization<a class="anchor-link" href="#Analytic-formalization">&#182;</a></h2><ul>
+<li>The acceleration (a) of our weight at a point in time (t) is equal to a constant (P) and our current location (s).</li>
+</ul>
+<p>$ a(t) = -Ps(t) $</p>
 <ul>
-<li>Really cool sunglasses people use it for everything they do.</li>
-<li>For data visualization and modeling, I typically prefer R.</li>
+<li>Acceleration is also a function of the change in velocity over time</li>
 </ul>
-<h2 id="R">R<a class="anchor-link" href="#R">&#182;</a></h2><p><strong><a href="https://www.r-project.org">The R Project for Statistical Computing</a> is specifically tailored to data cleaning, statistical analysis, and data visualization.</strong></p>
-<p><img src="img/Rlogo.png" width="350"></p>
-<h3 id="If-you're-left-thinking...">If you're left thinking...<a class="anchor-link" href="#If-you're-left-thinking...">&#182;</a></h3><p><img src="img/swanson.gif" width="350"></p>
-<h3 id="Just-remember...">Just remember...<a class="anchor-link" href="#Just-remember...">&#182;</a></h3><ul>
-<li>For this week, all you need to do is download <a href="https://www.anaconda.com">Anaconda</a>.  </li>
-<li>We will work through the software, languages, and assignments together, one week at a time.</li>
+<p>$ Acceleration = \frac{dV}{dt} $</p>
+<ul>
+<li>In English, the oscillator's position changes as a function of acceleration, and in turn acceleration is a function of velocity over time.</li>
+</ul>
+<p><strong>We can solve this using Euler's Method for differential equations, or...</strong></p>
+<h1 id="Brute-force-oscillator-in-Microsoft-Excel">Brute force oscillator in Microsoft Excel<a class="anchor-link" href="#Brute-force-oscillator-in-Microsoft-Excel">&#182;</a></h1><ul>
+<li>Basic logic: We figure out how much position, velocity, and acceleration have changed by multiplying those values to how much time has passed.<ul>
+<li>We add this scaling factor to our old value to get a new value.</li>
+<li>The new value then becomes the old value, rinse, repeat.<ul>
+<li>This is a golden rule of iteration: $New = Old + Change * Time$</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Variables we need -- and initial state<ul>
+<li>$P$, constant -- Choose an integer (e.g. 20), can tweak later to see what it does.</li>
+<li>$t$, time -- Where does this start?</li>
+<li>$dt$, time step -- Choose a small float (e.g. 0.05 seconds).</li>
+<li>$s$, position -- start it at 1, then update based on $ds$.</li>
+<li>$a$, acceleration -- we know this as $-1*P*s(t)$</li>
+<li>$v$, velocity -- where does this start?</li>
+<li>$dv$, change in velocity -- $a * t$</li>
+<li>$ds$, change in position -- $(v + dv) / dt$</li>
+</ul>
+</li>
+<li>Set an initial/baseline state</li>
+<li>Update state after first time step / iteration</li>
+<li>Iterate 50 times</li>
+<li>Plot $s(t)$</li>
 </ul>
 
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Assignment-#1:-Convert-to-a-Python-Code-for-the-Harmonic-Oscillator">Assignment #1: Convert to a Python Code for the Harmonic Oscillator<a class="anchor-link" href="#Assignment-#1:-Convert-to-a-Python-Code-for-the-Harmonic-Oscillator">&#182;</a></h1><h2 id="BONUS:-i)-Code-it-without-using-the-starter.">BONUS: i) Code it without using the starter.<a class="anchor-link" href="#BONUS:-i)-Code-it-without-using-the-starter.">&#182;</a></h2><h2 id="ii)-Add-a-damped-oscillator.">ii) Add a damped oscillator.<a class="anchor-link" href="#ii)-Add-a-damped-oscillator.">&#182;</a></h2>
 </div>
 </div>
 </div>
