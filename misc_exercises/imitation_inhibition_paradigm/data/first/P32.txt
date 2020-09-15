@@ -1,0 +1,471 @@
+P32
+tDCS_AI_wEffector
+03/01/2013	13:47:00
+
+Participant	Participant	Block	Trial	Event	Participant		Pressed Or	Correct	Error	Reaction	Movement_Onset
+Group	Name	Name	Name	Name	Response	Key	Released	Response	Code	Time	(Trial Variable)	Finger	Congruence	Repeated	Correct
+Main Group	P32	AI_Practice	AI_Practice, 7	AI_First_Stage_practice (7, i2inc.bmp)				(based on code value)	NR	0		1	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 7	AI_Second_Stage_practice (7, i3inc.bmp)				(based on code value)	NR	0		1	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 7	AI_Final_Stage_practice (7, i4inc.bmp)				(based on code value)	NR	0		1	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 7	AI_Blue_practice (7, i5inc.bmp)	index	v	Released	(based on code value)	C	612		1	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 7	AI_Blue_practice (7, i5inc.bmp)		v	Pressed	(based on code value)	E	1932		1	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 4	AI_First_Stage_practice (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 4	AI_Second_Stage_practice (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 4	AI_Final_Stage_practice (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	C	556		2	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 4	AI_Blue_practice (4, m5baseinc.bmp)				(based on code value)	NR	0		2	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 2	AI_First_Stage_practice (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 2	AI_Second_Stage_practice (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 2	AI_Final_Stage_practice (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	436		2	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 2	AI_Blue_practice (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	1421		2	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 2	AI_Blue_practice (2, m5basecon.bmp)	middle	b	Released	(based on code value)	SC	1517		2	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 2	AI_Blue_practice (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	1884		2	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 5	AI_First_Stage_practice (5, i2con.bmp)				(based on code value)	NR	0		1	3	1	
+Main Group	P32	AI_Practice	AI_Practice, 5	AI_Second_Stage_practice (5, i3con.bmp)				(based on code value)	NR	0		1	3	1	
+Main Group	P32	AI_Practice	AI_Practice, 5	AI_Final_Stage_practice (5, i4con.bmp)	index	v	Released	(based on code value)	C	467		1	3	1	
+Main Group	P32	AI_Practice	AI_Practice, 5	AI_Blue_practice (5, i5con.bmp)				(based on code value)	NR	0		1	3	1	
+Main Group	P32	AI_Practice	AI_Practice, 8	AI_First_Stage_practice (8, m2inc.bmp)				(based on code value)	NR	0		2	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 8	AI_Second_Stage_practice (8, m3inc.bmp)				(based on code value)	NR	0		2	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 8	AI_Final_Stage_practice (8, m4inc.bmp)	index	v	Released	(based on code value)	E	422		2	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 8	AI_Blue_practice (8, m5inc.bmp)		v	Pressed	(based on code value)	E	598		2	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 8	AI_Blue_practice (8, m5inc.bmp)	index	v	Released	(based on code value)	E	822		2	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 8	AI_Blue_practice (8, m5inc.bmp)		v	Pressed	(based on code value)	E	1702		2	4	1	
+Main Group	P32	AI_Practice	AI_Practice, 9	AI_First_Stage_practice (9, i2base.bmp)				(based on code value)	NR	0		1	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 9	AI_Second_Stage_practice (9, i3base.bmp)				(based on code value)	NR	0		1	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 9	AI_Final_Stage_practice (9, i4base.bmp)	index	v	Released	(based on code value)	C	489		1	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 9	AI_Blue_practice (9, i5base.bmp)		v	Pressed	(based on code value)	E	1705		1	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 10	AI_First_Stage_practice (10, m2base.bmp)				(based on code value)	NR	0		2	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 10	AI_Second_Stage_practice (10, m3base.bmp)				(based on code value)	NR	0		2	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 10	AI_Final_Stage_practice (10, m4base.bmp)				(based on code value)	NR	0		2	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 10	AI_Blue_practice (10, m5base.bmp)	middle	b	Released	(based on code value)	C	588		2	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 10	AI_Blue_practice (10, m5base.bmp)		b	Pressed	(based on code value)	E	1196		2	0	1	
+Main Group	P32	AI_Practice	AI_Practice, 3	AI_First_Stage_practice (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 3	AI_Second_Stage_practice (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 3	AI_Final_Stage_practice (3, i4baseinc.bmp)	middle	b	Released	(based on code value)	E	461		1	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 3	AI_Blue_practice (3, i5baseinc.bmp)		b	Pressed	(based on code value)	E	1197		1	2	1	
+Main Group	P32	AI_Practice	AI_Practice, 1	AI_First_Stage_practice (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 1	AI_Second_Stage_practice (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 1	AI_Final_Stage_practice (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	440		1	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 1	AI_Blue_practice (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	1072		1	1	1	
+Main Group	P32	AI_Practice	AI_Practice, 6	AI_First_Stage_practice (6, m2con.bmp)				(based on code value)	NR	0		2	3	1	
+Main Group	P32	AI_Practice	AI_Practice, 6	AI_Second_Stage_practice (6, m3con.bmp)				(based on code value)	NR	0		2	3	1	
+Main Group	P32	AI_Practice	AI_Practice, 6	AI_Final_Stage_practice (6, m4con.bmp)	middle	b	Released	(based on code value)	C	435		2	3	1	
+Main Group	P32	AI_Practice	AI_Practice, 6	AI_Blue_practice (6, m5con.bmp)		b	Pressed	(based on code value)	E	1403		2	3	1	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	1	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	1	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	410		2	0	1	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	1025		2	0	1	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	1	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	1	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	480		2	3	1	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	1071		2	3	1	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	1	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	1	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	361		1	3	1	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	978		1	3	1	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	1	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	1	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	326		2	1	1	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	854		2	1	1	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	1	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	1	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)				(based on code value)	NR	0		2	2	1	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)	middle	b	Released	(based on code value)	C	658		2	2	1	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	1146		2	2	1	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	1	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	1	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	379		2	4	1	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	923		2	4	1	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	1	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	1	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	334		1	4	1	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	966		1	4	1	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	1	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	1	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	475		1	1	1	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	971		1	1	1	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	1	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	1	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	index	v	Released	(based on code value)	C	446		1	2	1	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	1078		1	2	1	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	1	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	1	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	420		1	0	1	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	1036		1	0	1	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	2	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	2	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	408		1	1	2	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	976		1	1	2	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	2	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	2	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	index	v	Released	(based on code value)	E	378		2	4	2	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)		v	Pressed	(based on code value)	E	442		2	4	2	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	SC	482		2	4	2	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	978		2	4	2	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	2	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	2	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	357		1	3	2	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	845		1	3	2	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	2	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	2	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	357		2	1	2	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	1285		2	1	2	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	2	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	2	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	middle	b	Released	(based on code value)	E	290		1	2	2	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)		b	Pressed	(based on code value)	E	418		1	2	2	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)	middle	b	Released	(based on code value)	E	650		1	2	2	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		b	Pressed	(based on code value)	E	730		1	2	2	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	2	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	2	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	C	468		2	2	2	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	1051		2	2	2	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	2	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	2	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	428		2	3	2	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	1060		2	3	2	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	2	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	2	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	332		1	4	2	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	828		1	4	2	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	2	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	2	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	442		1	0	2	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	978		1	0	2	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	2	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	2	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	373		2	0	2	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	1109		2	0	2	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	3	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	3	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	index	v	Released	(based on code value)	C	481		1	2	3	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	1329		1	2	3	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	3	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	3	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	C	354		2	2	3	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	986		2	2	3	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	3	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	3	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	489		1	3	3	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	1082		1	3	3	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	3	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	3	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	333		2	0	3	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	869		2	0	3	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	3	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	3	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	348		2	3	3	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	811		2	3	3	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	3	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	3	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	436		1	0	3	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	804		1	0	3	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	3	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	3	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	406		1	1	3	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	822		1	1	3	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	3	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	3	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	493		2	1	3	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	797		2	1	3	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	3	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	3	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	431		1	4	3	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	727		1	4	3	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	3	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	3	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	414		2	4	3	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	750		2	4	3	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	4	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	4	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	425		2	1	4	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	697		2	1	4	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	4	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	4	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	410		2	4	4	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	707		2	4	4	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	4	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	4	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	middle	b	Released	(based on code value)	E	437		1	4	4	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		b	Pressed	(based on code value)	E	845		1	4	4	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	4	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	4	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	390		2	3	4	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	710		2	3	4	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	4	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	4	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	index	v	Released	(based on code value)	C	481		1	2	4	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	753		1	2	4	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	4	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	4	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	502		1	1	4	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	863		1	1	4	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	4	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	4	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	462		1	0	4	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	838		1	0	4	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	4	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	4	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	412		1	3	4	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	740		1	3	4	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	4	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	4	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)				(based on code value)	NR	0		2	2	4	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)	middle	b	Released	(based on code value)	C	572		2	2	4	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	844		2	2	4	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	4	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	4	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	459		2	0	4	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	723		2	0	4	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	5	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	5	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	470		1	0	5	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	838		1	0	5	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	5	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	5	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	317		2	3	5	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	581		2	3	5	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	5	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	5	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	445		2	1	5	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	741		2	1	5	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	5	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	5	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	middle	b	Released	(based on code value)	E	404		1	2	5	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)		b	Pressed	(based on code value)	E	484		1	2	5	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)	index	v	Released	(based on code value)	C	580		1	2	5	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	1332		1	2	5	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	5	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	5	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)				(based on code value)	NR	0		2	0	5	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)	middle	b	Released	(based on code value)	C	649		2	0	5	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	913		2	0	5	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	5	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	5	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	middle	b	Released	(based on code value)	E	383		1	1	5	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)		b	Pressed	(based on code value)	E	415		1	1	5	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	SC	519		1	1	5	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	719		1	1	5	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	5	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	5	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	432		1	3	5	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	712		1	3	5	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	5	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	5	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	506		1	4	5	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	721		1	4	5	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	5	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	5	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	519		2	4	5	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	831		2	4	5	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	5	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	5	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	C	430		2	2	5	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	678		2	2	5	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	6	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	6	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)				(based on code value)	NR	0		1	0	6	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)	index	v	Released	(based on code value)	C	734		1	0	6	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	1014		1	0	6	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	6	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	6	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	309		2	3	6	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	589		2	3	6	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	6	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	6	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	325		1	3	6	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	637		1	3	6	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	6	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	6	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	index	v	Released	(based on code value)	E	466		2	2	6	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)		v	Pressed	(based on code value)	E	506		2	2	6	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	SC	522		2	2	6	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	770		2	2	6	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	6	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	6	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	436		2	4	6	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	708		2	4	6	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	6	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	6	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	294		1	4	6	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)		v	Pressed	(based on code value)	E	550		1	4	6	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)				(based on code value)	NR	0		1	4	6	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	6	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	6	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	332		2	1	6	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	660		2	1	6	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	6	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	6	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	362		1	1	6	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	610		1	1	6	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	6	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	6	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	543		2	0	6	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	775		2	0	6	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	6	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	6	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	index	v	Released	(based on code value)	C	518		1	2	6	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	726		1	2	6	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	7	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	7	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	468		2	0	7	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	700		2	0	7	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	7	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	7	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)				(based on code value)	NR	0		1	4	7	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)	index	v	Released	(based on code value)	C	587		1	4	7	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	811		1	4	7	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	7	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	7	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	C	402		2	2	7	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	650		2	2	7	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	7	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	7	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	379		1	0	7	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	595		1	0	7	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	7	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	7	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	421		1	1	7	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	573		1	1	7	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	7	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	7	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	308		2	3	7	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)		b	Pressed	(based on code value)	E	556		2	3	7	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)				(based on code value)	NR	0		2	3	7	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	7	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	7	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	index	v	Released	(based on code value)	E	486		2	4	7	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		v	Pressed	(based on code value)	E	614		2	4	7	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	7	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	7	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	index	v	Released	(based on code value)	C	477		1	2	7	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	797		1	2	7	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	7	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	7	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	377		2	1	7	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	608		2	1	7	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	7	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	7	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	401		1	3	7	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	657		1	3	7	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	8	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	8	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	index	v	Released	(based on code value)	C	458		1	2	8	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	787		1	2	8	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	8	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	8	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	434		1	3	8	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	706		1	3	8	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	8	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	8	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	C	404		2	2	8	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	628		2	2	8	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	8	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	8	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	517		2	0	8	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	773		2	0	8	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	8	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	8	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	355		2	3	8	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	604		2	3	8	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	8	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	8	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	361		1	0	8	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	585		1	0	8	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	8	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	8	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	428		2	1	8	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	628		2	1	8	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	8	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	8	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	427		1	4	8	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	867		1	4	8	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	8	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	8	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	402		1	1	8	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	858		1	1	8	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	8	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	8	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	545		2	4	8	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	841		2	4	8	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	9	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	9	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	419		2	0	9	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	715		2	0	9	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	9	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	9	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	455		2	4	9	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	799		2	4	9	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	9	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	9	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	390		2	1	9	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	614		2	1	9	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	9	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	9	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	551		1	4	9	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	855		1	4	9	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	9	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	9	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)	index	v	Released	(based on code value)	C	555		1	2	9	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	779		1	2	9	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	9	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	9	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	475		2	3	9	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)		b	Pressed	(based on code value)	E	715		2	3	9	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	9	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	9	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	388		1	3	9	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	636		1	3	9	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	9	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	9	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	421		1	1	9	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	621		1	1	9	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	9	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	9	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	index	v	Released	(based on code value)	E	409		2	2	9	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		v	Pressed	(based on code value)	E	777		2	2	9	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	9	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	9	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	413		1	0	9	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	677		1	0	9	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_First_Stage (1, i2basecon.bmp)				(based on code value)	NR	0		1	1	10	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Second_Stage (1, i3basecon.bmp)				(based on code value)	NR	0		1	1	10	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Final_Stage (1, i4basecon.bmp)	index	v	Released	(based on code value)	C	411		1	1	10	
+Main Group	P32	AI_Block	AI_Trial, 1	AI_Blue (1, i5basecon.bmp)		v	Pressed	(based on code value)	E	659		1	1	10	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_First_Stage (3, i2baseinc.bmp)				(based on code value)	NR	0		1	2	10	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Second_Stage (3, i3baseinc.bmp)				(based on code value)	NR	0		1	2	10	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Final_Stage (3, i4baseinc.bmp)				(based on code value)	NR	0		1	2	10	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)	index	v	Released	(based on code value)	C	766		1	2	10	
+Main Group	P32	AI_Block	AI_Trial, 3	AI_Blue (3, i5baseinc.bmp)		v	Pressed	(based on code value)	E	1046		1	2	10	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_First_Stage (8, m2inc.bmp)				(based on code value)	NR	0		2	4	10	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Second_Stage (8, m3inc.bmp)				(based on code value)	NR	0		2	4	10	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Final_Stage (8, m4inc.bmp)	middle	b	Released	(based on code value)	C	404		2	4	10	
+Main Group	P32	AI_Block	AI_Trial, 8	AI_Blue (8, m5inc.bmp)		b	Pressed	(based on code value)	E	668		2	4	10	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_First_Stage (4, m2baseinc.bmp)				(based on code value)	NR	0		2	2	10	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Second_Stage (4, m3baseinc.bmp)				(based on code value)	NR	0		2	2	10	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Final_Stage (4, m4baseinc.bmp)	middle	b	Released	(based on code value)	C	549		2	2	10	
+Main Group	P32	AI_Block	AI_Trial, 4	AI_Blue (4, m5baseinc.bmp)		b	Pressed	(based on code value)	E	774		2	2	10	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_First_Stage (7, i2inc.bmp)				(based on code value)	NR	0		1	4	10	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Second_Stage (7, i3inc.bmp)				(based on code value)	NR	0		1	4	10	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Final_Stage (7, i4inc.bmp)	index	v	Released	(based on code value)	C	407		1	4	10	
+Main Group	P32	AI_Block	AI_Trial, 7	AI_Blue (7, i5inc.bmp)		v	Pressed	(based on code value)	E	639		1	4	10	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_First_Stage (2, m2basecon.bmp)				(based on code value)	NR	0		2	1	10	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Second_Stage (2, m3basecon.bmp)				(based on code value)	NR	0		2	1	10	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Final_Stage (2, m4basecon.bmp)	middle	b	Released	(based on code value)	C	480		2	1	10	
+Main Group	P32	AI_Block	AI_Trial, 2	AI_Blue (2, m5basecon.bmp)		b	Pressed	(based on code value)	E	704		2	1	10	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_First_Stage (6, m2con.bmp)				(based on code value)	NR	0		2	3	10	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Second_Stage (6, m3con.bmp)				(based on code value)	NR	0		2	3	10	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)	middle	b	Released	(based on code value)	C	330		2	3	10	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Final_Stage (6, m4con.bmp)		b	Pressed	(based on code value)	E	538		2	3	10	
+Main Group	P32	AI_Block	AI_Trial, 6	AI_Blue (6, m5con.bmp)				(based on code value)	NR	0		2	3	10	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_First_Stage (5, i2con.bmp)				(based on code value)	NR	0		1	3	10	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Second_Stage (5, i3con.bmp)				(based on code value)	NR	0		1	3	10	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Final_Stage (5, i4con.bmp)	index	v	Released	(based on code value)	C	450		1	3	10	
+Main Group	P32	AI_Block	AI_Trial, 5	AI_Blue (5, i5con.bmp)		v	Pressed	(based on code value)	E	650		1	3	10	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_First_Stage (9, i2base.bmp)				(based on code value)	NR	0		1	0	10	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Second_Stage (9, i3base.bmp)				(based on code value)	NR	0		1	0	10	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Final_Stage (9, i4base.bmp)	index	v	Released	(based on code value)	C	432		1	0	10	
+Main Group	P32	AI_Block	AI_Trial, 9	AI_Blue (9, i5base.bmp)		v	Pressed	(based on code value)	E	608		1	0	10	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_First_Stage (10, m2base.bmp)				(based on code value)	NR	0		2	0	10	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Second_Stage (10, m3base.bmp)				(based on code value)	NR	0		2	0	10	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Final_Stage (10, m4base.bmp)	middle	b	Released	(based on code value)	C	506		2	0	10	
+Main Group	P32	AI_Block	AI_Trial, 10	AI_Blue (10, m5base.bmp)		b	Pressed	(based on code value)	E	746		2	0	10	
