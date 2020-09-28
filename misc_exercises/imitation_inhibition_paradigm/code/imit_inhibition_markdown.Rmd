@@ -1,0 +1,50 @@
+---
+title: "test"
+author: "Jeremy Hogeveen"
+date: "9/28/2020"
+output: html_document
+---
+
+# RMarkdown
+
+* Enables interleaved markdown & code chunks
+* Comes automatically installed with the RStudio IDE (not available by default with R)
+* More information <a href='https://rmarkdown.rstudio.com/articles_intro.html'>here</a>
+
+```{r import_tidyverse, include=FALSE}
+library(tidyverse)
+```
+
+## Visualizing the imitation inhibition task data
+
+### Step 1: Reading in the data
+
+```{r read_data}
+# paths
+base_dir <- '/Users/jeremyhogeveen/Dropbox/Fall_2020/teaching/DSPN_Fall2020_git/misc_exercises/imitation_inhibition_paradigm'
+data_dir <- paste(base_dir,'data/second',sep='/')
+
+# filename
+sublevel_file <- paste(data_dir,'ait_subjectlevel.csv',sep='/')
+
+# Read in the data and check it
+df <- read_csv(sublevel_file)
+print(df)
+
+```
+
+### Step 2: Plotting the RT data by condition
+
+```{r plot_data}
+
+# reshaping the data frame to long
+df_long <- df %>%
+  pivot_longer(cols = baseline:movement_incongruent,
+               names_to = 'condition',
+               values_to = 'rt')
+# plotting the data as a boxplot data separated by condition
+plot(box_by_condition <- ggplot(df_long,aes(x = condition, y=rt)) +
+       geom_boxplot() +
+       theme(axis.text.x = element_text(angle = 45, vjust=0.5)))
+
+```
