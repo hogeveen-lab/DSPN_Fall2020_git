@@ -7,7 +7,7 @@
 library(tidyverse)
 
 # paths
-base_dir <- '/Users/jeremyhogeveen/Dropbox/Fall_2020/teaching/DSPN_Fall2020_workdir/misc_exercises/imitation_inhibition_paradigm'
+base_dir <- '/Users/jeremyhogeveen/Dropbox/Fall_2020/teaching/DSPN_Fall2020_git/misc_exercises/imitation_inhibition_paradigm'
 data_dir <- paste(base_dir,'data/second',sep='/')
 
 # filename
